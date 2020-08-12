@@ -6,4 +6,26 @@ According to [Harvard](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of
 
 Image Credit: By Calvin.Andrus (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons
 
+Day 0 | 11 August 2020
+D-Day is here and finally, I am accepting 100 days of data sciecne code challenge.
 
+Today I am starting a challenge, which is “100-Days-Of-Data-Science-Code” and the intuition behind this to dedicate at least one hour of every day for next 100 days in studying and/or coding Data Science concepts. I will share my progress via :
+
+GitHub: https://github.com/themlphdstudent/100DaysofDataScience
+
+Twitter : www.twitter.com/@themlphdstudent
+
+Instagram : www.instagram.com/@themlphdstudent
+
+My Webpage : www.durgeshsamariya.com
+
+Medium : https://medium.com/@themlphdstudent
+
+Make sure you subscribe and give star to repository.
+
+Day 1 | 12 August 2020
+
+Today I perform some data analysis and visualization on World Population by Countries from 1955 to 2020.
+You can find kaggle kernel [here](https://www.kaggle.com/themlphdstudent/world-population-from-1955-to-2020).
+
+Day 2 | 13 August 2020
