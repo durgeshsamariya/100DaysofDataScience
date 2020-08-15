@@ -25,7 +25,72 @@ Make sure you subscribe and give star to repository.
 
 Day 1 | 12 August 2020
 
-Today I perform some data analysis and visualization on World Population by Countries from 1955 to 2020.
+Day 1 of #100DaysofDataScience
+Dataset: Countries Population from 1955 to 2020
+
+Part - 1 | Today's Questions are :
+1. Top 30 countries by Population in 2020.
+2. Total Share in the World's population by the top 10 countries in 2020.
+3. Country Wise Data Analysis.
+
 You can find kaggle kernel [here](https://www.kaggle.com/themlphdstudent/world-population-from-1955-to-2020).
 
 Day 2 | 13 August 2020
+
+Data Set: 
+Day 2 of #100DaysofDataScience
+Dataset: Countries Population from 1955 to 2020
+
+Part - 2 | Today's Questions (Part - 2) are :
+1. The population of the top five countries since 1955.
+2. Which country is highly dense in 2020?
+3. Which country has the lowest density by population in 2020?
+
+You can find kaggle kernel [here](https://www.kaggle.com/themlphdstudent/world-population-from-1955-to-2020).
+
+Day 3 | 14 August 2020
+
+Day 3 of #100DaysofDataScience
+Dataset: Countries Population from 1955 to 2020
+
+Part - 3 | Today's Questions are :
+1. Which Country is Highly Populated? [China]
+2. Number of Countries with Population more than 1 Million. [159 countries]
+3. Number of Countries with Population more than 1 Billion. [Only 2] [China and India]
+
+There are more questions to answers. However, from tomorrow I will move to another dataset.
+You can find kaggle kernel [here](https://www.kaggle.com/themlphdstudent/world-population-from-1955-to-2020).
+
+Day 4 | 15 August 2020
+
+Day 5 | 16 August 2020
+
+Day 6 | 17 August 2020
+
+Day 7 | 18 August 2020
+
+Day 8 | 19 August 2020
+
+Day 9 | 20 August 2020
+
+Day 10 | 21 August 2020
+
+Day 11 | 22 August 2020
+
+Day 12 | 23 August 2020
+
+Day 13 | 24 August 2020
+
+Day 14 | 25 August 2020
+
+Day 15 | 26 August 2020
+
+Day 16 | 27 August 2020
+
+Day 17 | 28 August 2020
+
+Day 18 | 29 August 2020
+
+Day 19 | 30 August 2020
+
+Day 20 | 31 August 2020
