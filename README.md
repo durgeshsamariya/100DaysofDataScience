@@ -79,6 +79,19 @@ You can find kaggle kernel [here](https://www.kaggle.com/themlphdstudent/box-off
 
 Day 5 | 16 August 2020
 
+Day 5 of #100DaysofDataScience
+
+Dataset: TMDB Box Office Prediction
+
+Today's questions are :
+1. Which movie has highest popularity and lowest popularity?
+[Highest popularity --> Wonder Woman] [Lowest Popularity --> Big Time]
+2. In which month the highest number of movies are released from 1921 to 2017? [September month, a total of 362 movies released]
+3. On which date of the month most movies are released?[1st, a total of 152 movies are released]
+4. On which day of week most movies are released? [Friday, a total of 1334 movies released.]
+
+You can find kaggle kernel [here](https://www.kaggle.com/themlphdstudent/box-office-revenue-analysis-and-visualization).
+
 Day 6 | 17 August 2020
 
 Day 7 | 18 August 2020
