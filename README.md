@@ -134,17 +134,15 @@ Today, instead of finding an answer to the particular question on the combined d
 2. Most common education among candidates?
 3. A number of candidates in each Political Party.
 
-You can find kaggle kernel [here]().
-
-From tomorrow I will work on Corona Virus Dataset. I will mainly focus on visualization instead of answering a few questions.
+You can find kaggle kernel [here](https://www.kaggle.com/themlphdstudent/lok-sabha-candidate-data-analysis-visualization).
 
 ## Day 9 | 20 August 2020
 
-You can find kaggle kernel [here]().
+Today I practice NumPy. Check out NumPy exercise Part 1 kaggle kernel [here](https://www.kaggle.com/themlphdstudent/learn-numpy-numpy-exercises-part-1).
 
 ## Day 10 | 21 August 2020
 
-You can find kaggle kernel [here]().
+Today I practice NumPy. Check out NumPy exercise Part 2 kaggle kernel [here](https://www.kaggle.com/themlphdstudent/learn-numpy-numpy-exercises-part-2).
 
 ## Day 11 | 22 August 2020
 
