@@ -143,35 +143,81 @@ Today I practice NumPy. Check out NumPy exercise Part 1 kaggle kernel [here](htt
 
 ## Day 10 | 21 August 2020
 
-Today I practice NumPy. Check out NumPy exercise Part 2 kaggle kernel [here](https://www.kaggle.com/themlphdstudent/learn-numpy-numpy-exercises-part-2).
+Today I practice NumPy. Check out NumPy exercise Part 1 kaggle kernel [here](https://www.kaggle.com/themlphdstudent/learn-numpy-numpy-exercises-part-1).
 
 ## Day 11 | 22 August 2020
 
-You can find kaggle kernel [here]().
+Dataset: Novel Corona Virus Dataset
+
+Today I started working on Corona Virus dataset. I checked some other kernels for reference.
+Today I cleaned dataset and perform some analysis. 
+
+Tomorrow I will do Visualization.
+
+You can find kaggle kernel [here](https://www.kaggle.com/themlphdstudent/novel-corona-virus-covid19-eda-and-visualization).
 
 ## Day 12 | 23 August 2020
 
-You can find kaggle kernel [here]().
+Dataset: Novel Corona Virus Dataset
+
+Today I did USA coronavirus data analysis and learned how to create a waffle chart in python. There are so many things that I can learn from this dataset. Hence going to explore more on this data. 
+
+You can find kaggle kernel [here](https://www.kaggle.com/themlphdstudent/novel-corona-virus-covid19-eda-and-visualization).
 
 Day 13 | 24 August 2020
 
-You can find kaggle kernel [here]().
+Dataset: Novel Corona Virus Dataset
+
+Today I performed more visuals on covid dataset.
+
+1 month ago I created a Kaggle account and started working seriously in #kaggle and within a month I have become Kaggle notebook expert. 
+
+I would like to thank all #kagglers for their support, love, and feedbacks which made me stronger day by day.
+
+The more I learn, the more I realize that there's still so much more to learn but it's a really fun process. Still, a long way to go.
+
+You can find kaggle kernel [here](https://www.kaggle.com/themlphdstudent/novel-corona-virus-covid19-eda-and-visualization).
 
 Day 14 | 25 August 2020
 
-You can find kaggle kernel [here]().
+Dataset: Campus Recruitment
+
+✅Analyze data
+✅Checked each feature. 
+✅Checked the relation between some variables.
+
+You can find kaggle kernel [here](https://www.kaggle.com/themlphdstudent/campus-recruitment-eda-classification).
 
 Day 15 | 26 August 2020
 
+Dataset: Campus Recruitment
 
-You can find kaggle kernel [here]().
+✅Developed Machine learning model to predict whether a candidate will get job or not. 
+
+You can find kaggle kernel [here](https://www.kaggle.com/themlphdstudent/campus-recruitment-eda-classification).
 
 Day 16 | 27 August 2020
 
 Day 17 | 28 August 2020
 
+Today I earned dataset expert badge on Kaggle. I become 2x Expert -- notebook and dataset.
+
+I would like to thank all #kagglers for their support, love, and feedbacks which made me stronger day by day.
+
+The more I learn, the more I realize that there's still so much more to learn but it's a really fun process. Still, a long way to go.
+
+
 Day 18 | 29 August 2020
 
+Today I started working on Matplotlib Cheatsheet. 
+On this kernel/notebook you will find all matplotlib plots.
+
+You can find kaggle kernel [here](https://www.kaggle.com/themlphdstudent/cheatsheet-matplotlib-charts).
+
 Day 19 | 30 August 2020
+
+Updated more charts on matplotlib cheatsheet.
+
+You can find kaggle kernel [here](https://www.kaggle.com/themlphdstudent/cheatsheet-matplotlib-charts).
 
 Day 20 | 31 August 2020
