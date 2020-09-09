@@ -164,7 +164,7 @@ Today I did USA coronavirus data analysis and learned how to create a waffle cha
 
 You can find kaggle kernel [here](https://www.kaggle.com/themlphdstudent/novel-corona-virus-covid19-eda-and-visualization).
 
-Day 13 | 24 August 2020
+## Day 13 | 24 August 2020
 
 Dataset: Novel Corona Virus Dataset
 
@@ -178,7 +178,7 @@ The more I learn, the more I realize that there's still so much more to learn bu
 
 You can find kaggle kernel [here](https://www.kaggle.com/themlphdstudent/novel-corona-virus-covid19-eda-and-visualization).
 
-Day 14 | 25 August 2020
+## Day 14 | 25 August 2020
 
 Dataset: Campus Recruitment
 
@@ -188,7 +188,7 @@ Dataset: Campus Recruitment
 
 You can find kaggle kernel [here](https://www.kaggle.com/themlphdstudent/campus-recruitment-eda-classification).
 
-Day 15 | 26 August 2020
+## Day 15 | 26 August 2020
 
 Dataset: Campus Recruitment
 
@@ -196,9 +196,9 @@ Dataset: Campus Recruitment
 
 You can find kaggle kernel [here](https://www.kaggle.com/themlphdstudent/campus-recruitment-eda-classification).
 
-Day 16 | 27 August 2020
+## Day 16 | 27 August 2020
 
-Day 17 | 28 August 2020
+## Day 17 | 28 August 2020
 
 Today I earned dataset expert badge on Kaggle. I become 2x Expert -- notebook and dataset.
 
@@ -207,17 +207,90 @@ I would like to thank all #kagglers for their support, love, and feedbacks which
 The more I learn, the more I realize that there's still so much more to learn but it's a really fun process. Still, a long way to go.
 
 
-Day 18 | 29 August 2020
+## Day 18 | 29 August 2020
 
 Today I started working on Matplotlib Cheatsheet. 
 On this kernel/notebook you will find all matplotlib plots.
 
 You can find kaggle kernel [here](https://www.kaggle.com/themlphdstudent/cheatsheet-matplotlib-charts).
 
-Day 19 | 30 August 2020
+## Day 19 | 30 August 2020
 
 Updated more charts on matplotlib cheatsheet.
 
 You can find kaggle kernel [here](https://www.kaggle.com/themlphdstudent/cheatsheet-matplotlib-charts).
 
-Day 20 | 31 August 2020
+## Day 20 | 31 August 2020
+
+Today I started working first ever compitition on kaggle.
+
+Dataset: Titanic Survive prediction
+
+Today I explore dataset and perform EDA.
+
+Checkout my kernel [here](https://www.kaggle.com/themlphdstudent/titanic-eda).
+
+## Day 21 | 1 September 2020
+Dataset: Titanic Survive prediction
+
+Today I implemetend some machine learning models to predict where passenger will survive or not.
+
+Checkout my kernel [here](https://www.kaggle.com/themlphdstudent/titanic-eda).
+
+## Day 22 | 2 September 2020
+
+Dataset: Titanic Survive prediction
+
+After exploring and builing predictive model today I prepared another kernel on tutorial for beginners.
+I might work more on this kernel tomorrow to make it more clear.
+
+Checkout my kernel [here](https://www.kaggle.com/themlphdstudent/titanic-survive-prediction-tutorial-for-beginners).
+
+## Day 23 | 3 September 2020
+Dataset: Titanic Survive prediction
+
+After spending four days I think from tomorrow I will move to other dataset. I will work parallely on this kernel in my free time.
+
+Checkout my kernel [here](https://www.kaggle.com/themlphdstudent/titanic-survive-prediction-tutorial-for-beginners).
+
+## Day 24 | 4 September 2020
+Dataset: Drug Classification
+
+- Explore Dataset
+- Checked for outliers in dataset
+- Correlation between some features
+
+Checkout kernel [here](https://www.kaggle.com/themlphdstudent/drug-classification-using-state-of-the-art-ml-algo).
+
+## Day 25 | 5 September 2020
+Dataset: Drug Classification
+
+1. Data visualization
+2. Standardizing the data
+3. Deciding Models
+4. Splitting the data
+
+Checkout kernel [here](https://www.kaggle.com/themlphdstudent/drug-classification-using-state-of-the-art-ml-algo).
+
+## Day 26 | 6 September 2020
+Dataset: Drug Classification
+
+1. Decision Tree and Random forest CLassifier
+2. Comparison of models
+3. Conclusion
+
+Checkout kernel [here](https://www.kaggle.com/themlphdstudent/drug-classification-using-state-of-the-art-ml-algo).
+
+## Day 27 | 7 September 2020
+
+
+## Day 28 | 8 September 2020
+
+
+## Day 29 | 9 September 2020
+
+
+## Day 30 | 10 September 2020
+
+
+## Day 31 | 11 September 2020
