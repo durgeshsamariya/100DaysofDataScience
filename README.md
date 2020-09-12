@@ -282,10 +282,16 @@ Dataset: Drug Classification
 Checkout kernel [here](https://www.kaggle.com/themlphdstudent/drug-classification-using-state-of-the-art-ml-algo).
 
 ## Day 27 | 7 September 2020
+Today I started working on some more numpy excercises. Numpy is very important python library.
 
+Checkout kernel [here](https://www.kaggle.com/themlphdstudent/learn-numpy-numpy-exercise-part-2).
 
 ## Day 28 | 8 September 2020
 
+Today I continue working on numpy excerises. I am now more confident with numpy so today is my last day on numpy.
+From next week I will work on pandas library as pandas also very useful library.
+
+Checkout kernel [here](https://www.kaggle.com/themlphdstudent/learn-numpy-numpy-exercise-part-2).
 
 ## Day 29 | 9 September 2020
 
@@ -294,3 +300,22 @@ Checkout kernel [here](https://www.kaggle.com/themlphdstudent/drug-classificatio
 
 
 ## Day 31 | 11 September 2020
+
+
+## Day 32 | 12 September 2020
+
+
+## Day 33 | 13 September 2020
+
+
+## Day 34 | 14 September 2020
+
+## Day 35 | 15 September 2020
+
+
+## Day 36 | 16 September 2020
+
+## Day 37 | 17 September 2020
+
+
+## Day 38 | 18 September 2020
