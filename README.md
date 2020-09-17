@@ -310,12 +310,66 @@ Checkout kernel [here](https://www.kaggle.com/themlphdstudent/learn-numpy-numpy-
 
 ## Day 34 | 14 September 2020
 
+
 ## Day 35 | 15 September 2020
 
 
 ## Day 36 | 16 September 2020
 
+
 ## Day 37 | 17 September 2020
 
 
 ## Day 38 | 18 September 2020
+
+
+## Day 39 | 19 September 2020
+
+
+## Day 40 | 20 September 2020
+
+
+## Day 41 | 21 September 2020
+
+
+## Day 42 | 22 September 2020
+
+
+## Day 43 | 23 September 2020
+
+
+
+## Day 44 | 24 September 2020
+
+
+## Day 45 | 25 September 2020
+
+
+## Day 46 | 26 September 2020
+
+
+## Day 47 | 27 September 2020
+
+
+## Day 48 | 28 September 2020
+
+
+## Day 49 | 29 September 2020
+
+
+## Day 50 | 30 September 2020
+
+
+## Day 51 | 1 October 2020
+
+
+## Day 52 | 2 October 2020
+
+
+## Day 53 | 3 October 2020
+
+
+## Day 54 | 4 October 2020
+
+
+## Day 55 | 5 October 2020
