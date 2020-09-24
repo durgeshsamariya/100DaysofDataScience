@@ -231,6 +231,7 @@ Today I explore dataset and perform EDA.
 Checkout my kernel [here](https://www.kaggle.com/themlphdstudent/titanic-eda).
 
 ## Day 21 | 1 September 2020
+
 Dataset: Titanic Survive prediction
 
 Today I implemetend some machine learning models to predict where passenger will survive or not.
@@ -295,11 +296,19 @@ Checkout kernel [here](https://www.kaggle.com/themlphdstudent/learn-numpy-numpy-
 
 ## Day 29 | 9 September 2020
 
+Today I started working on Seaborn Cheatsheet. 
+On this kernel/notebook you will find all seaborn plots.
+
+You can find kaggle kernel [here](https://www.kaggle.com/themlphdstudent/cheat-sheet-seaborn-charts). 
 
 ## Day 30 | 10 September 2020
 
+Updated more charts on seaborn cheatsheet.
+
+You can find kaggle kernel [here](https://www.kaggle.com/themlphdstudent/cheat-sheet-seaborn-charts).
 
 ## Day 31 | 11 September 2020
+
 
 
 ## Day 32 | 12 September 2020
@@ -336,7 +345,6 @@ Checkout kernel [here](https://www.kaggle.com/themlphdstudent/learn-numpy-numpy-
 
 
 ## Day 43 | 23 September 2020
-
 
 
 ## Day 44 | 24 September 2020
