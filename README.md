@@ -1,5 +1,5 @@
 # 100DaysofDataScience
-A 100 Day DS Challenge to learn and implement DS concepts ranging from the beginner of Data Science to Data Scientist.
+A 100 Day Data Science Challenge to learn and implement DS concepts ranging from the beginner of Data Science to Data Scientist.
 
 According to [Harvard](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century), Data Scientist is the **Sexiest** job of the 21st century.
 <center>
